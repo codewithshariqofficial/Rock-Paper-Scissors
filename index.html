@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Rock Paper Scissors</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <main class="game-container glass">
+        <header>
+            <h1>Rock Paper Scissors</h1>
+        </header>
+
+        <section class="stats-container">
+            <div class="stat-card">
+                <span class="stat-label">Wins</span>
+                <span id="wins" class="stat-value">0</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-label">Losses</span>
+                <span id="losses" class="stat-value">0</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-label">Draws</span>
+                <span id="draws" class="stat-value">0</span>
+            </div>
+        </section>
+
+        <section class="game-board">
+            <div class="choice-display">
+                <div class="player-side">
+                    <h3>You</h3>
+                    <div id="player-choice" class="choice-icon">?</div>
+                </div>
+                <div class="vs">VS</div>
+                <div class="ai-side">
+                    <h3>AI</h3>
+                    <div id="ai-choice" class="choice-icon">?</div>
+                </div>
+            </div>
+            <div id="result-text" class="result-message">Choose your move!</div>
+        </section>
+
+        <section class="controls">
+            <button class="btn-choice" data-choice="rock">✊ Rock</button>
+            <button class="btn-choice" data-choice="paper">✋ Paper</button>
+            <button class="btn-choice" data-choice="scissors">✌️ Scissors</button>
+        </section>
+
+        <footer>
+            <button id="reset-btn" class="btn-secondary">Reset Stats</button>
+        </footer>
+    </main>
+
+    <script src="js/stats.js"></script>
+    <script src="js/game.js"></script>
+</body>
+</html>
