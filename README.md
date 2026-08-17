@@ -1,6 +1,6 @@
 <div align="center">
 
-# âœŠâœŒï¸ðŸ–ï¸ Rock Paper Scissors
+# Rock Paper Scissors
 
 **Classic Rock Paper Scissors game vs computer with score tracking, animations & beautiful UI. Built with HTML, CSS & JavaScript.**
 
@@ -13,13 +13,13 @@
 
 ---
 
-## ðŸ“Œ Topics
+## Topics
 
-`html` `css` `javascript` `rock-paper-scissors` `game` `browser-game` `random-logic` `score-tracking` `responsive-design` `front-end` `web-development` `vanilla-js` `css-animations` `fun-project`
+`html` `css` `javascript` `rock-paper-scissors` `game` `browser-game` `random-logic` `score-tracking` `responsive-design` `vanilla-js`
 
 ---
 
-## ðŸ“– About
+## About
 
 The **classic Rock Paper Scissors game** â€” now with a modern web design! Play against the computer, track your score, and enjoy beautiful hand gesture animations.
 
@@ -27,42 +27,42 @@ Features **random AI selection**, **score tracking** (wins/losses/draws), and **
 
 ---
 
-## âœ¨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
-| ðŸ¤– vs Computer | Random computer selection |
-| ðŸ“Š Score Tracking | Win/Loss/Draw counter |
-| ðŸŽ¨ Animations | Hand gesture animations |
-| ðŸ“± Responsive | Play on any device |
-| ðŸŽ¯ Result Display | Who won each round |
-| ðŸ’« Visual Feedback | Color-coded outcomes |
-| ðŸ”„ Quick Reset | Play again instantly |
-| âš¡ Instant Result | Immediate round feedback |
+| vs Computer | Random computer selection |
+| Score Tracking | Win/Loss/Draw counter |
+| Animations | Hand gesture animations |
+| Responsive | Play on any device |
+| Result Display | Who won each round |
+| Visual Feedback | Color-coded outcomes |
+| Quick Reset | Play again instantly |
+| Instant Result | Immediate round feedback |
 
 ---
 
-## ðŸŽ® Game Rules
+## Game Rules
 
 | You Choose | Beats | Loses To |
 |------------|-------|----------|
-| âœŠ Rock | âœŒï¸ Scissors | ðŸ–ï¸ Paper |
-| ðŸ–ï¸ Paper | âœŠ Rock | âœŒï¸ Scissors |
-| âœŒï¸ Scissors | ðŸ–ï¸ Paper | âœŠ Rock |
+| Rock | Scissors | Paper |
+| Paper | Rock | Scissors |
+| Scissors | Paper | Rock |
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ```
-HTML5 âžœ Game Layout, Choice Buttons
-CSS3  âžœ Animations, Card Design, Responsive
-JS    âžœ Random Logic, Conditionals, Score State
+HTML5  -->  Game Layout, Choice Buttons
+CSS3   -->  Animations, Card Design, Responsive
+JS     -->  Random Logic, Conditionals, Score State
 ```
 
 ---
 
-## ðŸ§  Game Logic
+## Game Logic
 
 ```javascript
 const choices = ["rock", "paper", "scissors"];
@@ -83,7 +83,7 @@ function determineWinner(player, computer) {
 
 ---
 
-## ðŸš€ Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/codewithshariqofficial/Rock-Paper-Scissors.git
@@ -93,7 +93,7 @@ start index.html
 
 ---
 
-## ðŸ“‚ Project Structure
+## Project Structure
 
 ```
 Rock-Paper-Scissors/
@@ -105,7 +105,7 @@ Rock-Paper-Scissors/
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Author
+## Author
 
 **Code With Shariq Official**
 
@@ -113,5 +113,3 @@ Rock-Paper-Scissors/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithshariq1/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/codewithshariq1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-shariq-shahid.vercel.app/)
-
----
