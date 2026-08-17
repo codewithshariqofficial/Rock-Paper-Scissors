@@ -2,7 +2,7 @@
 
 # Rock Paper Scissors
 
-**Classic Rock Paper Scissors game vs computer with score tracking, animations & beautiful UI. Built with HTML, CSS & JavaScript.**
+**Classic Rock Paper Scissors game vs computer with score tracking, animations and beautiful UI. Built with HTML, CSS and JavaScript.**
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://rock-paper-scissors.vercel.app)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -21,7 +21,7 @@
 
 ## About
 
-The **classic Rock Paper Scissors game** â€" now with a modern web design! Play against the computer, track your score, and enjoy beautiful hand gesture animations.
+The **classic Rock Paper Scissors game** -- now with a modern web design! Play against the computer, track your score, and enjoy beautiful hand gesture animations.
 
 Features **random AI selection**, **score tracking** (wins/losses/draws), and **visual feedback** for each round.
 
@@ -97,10 +97,10 @@ start index.html
 
 ```
 Rock-Paper-Scissors/
-â"œâ"€â"€ index.html        # Game UI
-â"œâ"€â"€ js/script.js      # Game logic
-â"œâ"€â"€ styles/style.css  # Styling
-â""â"€â"€ README.md
+  index.html        # Game UI
+  js/script.js      # Game logic
+  styles/style.css  # Styling
+  README.md
 ```
 
 ---
