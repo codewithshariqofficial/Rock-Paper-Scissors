@@ -21,7 +21,7 @@
 
 ## About
 
-The **classic Rock Paper Scissors game** â€” now with a modern web design! Play against the computer, track your score, and enjoy beautiful hand gesture animations.
+The **classic Rock Paper Scissors game** â€" now with a modern web design! Play against the computer, track your score, and enjoy beautiful hand gesture animations.
 
 Features **random AI selection**, **score tracking** (wins/losses/draws), and **visual feedback** for each round.
 
@@ -97,10 +97,10 @@ start index.html
 
 ```
 Rock-Paper-Scissors/
-â”œâ”€â”€ index.html        # Game UI
-â”œâ”€â”€ js/script.js      # Game logic
-â”œâ”€â”€ styles/style.css  # Styling
-â””â”€â”€ README.md
+â"œâ"€â"€ index.html        # Game UI
+â"œâ"€â"€ js/script.js      # Game logic
+â"œâ"€â"€ styles/style.css  # Styling
+â""â"€â"€ README.md
 ```
 
 ---
