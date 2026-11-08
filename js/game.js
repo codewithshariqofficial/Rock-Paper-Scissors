@@ -83,3 +83,4 @@ const Game = {
 
 // Start the game
 document.addEventListener('DOMContentLoaded', () => Game.init());
+

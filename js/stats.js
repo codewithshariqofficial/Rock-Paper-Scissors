@@ -51,3 +51,4 @@ const Stats = {
 
 // Initialize stats when the script loads
 Stats.init();
+
